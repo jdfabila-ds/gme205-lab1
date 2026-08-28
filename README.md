@@ -5,5 +5,8 @@ Edited on Github web interface
 2. type "python src\hello.py"
 
 
-created points.csv file
+1. created points.csv file
+
+2. Was able to read data points successfully, and print basic information. 
+Changed the number of rows, and the code successfully printed the updated information
 
